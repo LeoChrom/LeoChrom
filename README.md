@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeoChrom
-- 👀 I like the IT world
+- 👀 I enjoy the world of IT
 - 🌱 I’m currently learning Python, HTML and CSS
 - 📫 How to reach me: leochromlabs@xgbfh.onmicrosoft.com
 - 😄 Pronouns: he/him
